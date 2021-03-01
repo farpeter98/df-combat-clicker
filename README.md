@@ -8,4 +8,5 @@
 -Simply run from command line, then swap to the game window, ready to start the quest. The magic constants are entirely based upon window size, so feel free to just convert them into ratios then compute them for yourself based on your window's parameters. Alas' I'm lazy for that.
 
 -Check out the game itself on [the official style](https://dragonfable.com).
--ALl rights belong to the amazing developers and Artix Entertainment.
+
+-All rights belong to the amazing developers and Artix Entertainment.

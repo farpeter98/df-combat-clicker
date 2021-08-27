@@ -130,11 +130,15 @@ def run():
     # Wait to save again
     time.sleep(1.5)
 
-# A little time to switch tabs
-time.sleep(2)
-setDFWindow()
-counter = 0
-while True:
-    run()
-    counter += 1
-    print("Defeated " + str(counter) + " total")
+def main():
+    # A little time to switch tabs
+    time.sleep(2)
+    setDFWindow()
+    counter = 0
+    while True:
+        run()
+        counter += 1
+        print("Defeated " + str(counter) + " total")
+
+if __name__ == '__main__':
+    main()
